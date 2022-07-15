@@ -1,0 +1,36 @@
+[{
+        "id": "0001",
+        "category": "plastikmuell",
+        "title": "Aluminium und Weißblech",
+        "img": "./src/data/img/plastic.png",
+        "desc": "Aluminium und Weißblech kommen in den gelben Sack und werden später sortiert."
+    },
+    {
+        "id": "0002",
+        "category": "plastikmuell",
+        "title": "Flaschen aus PE und PET",
+        "img": "./src/data/img/plasticbottles.png",
+        "desc": "PE-Flaschen gehören in den gelben Sack."
+    },
+    {
+        "id": "0003",
+        "category": "restmuell",
+        "title": "Benutzter Coffee2Go Becher",
+        "img": "./src/data/img/coffe2go.png",
+        "desc": "Einwegbecher sind beschichtet! Das heißt sie sind meistens nur ein Störfaktor im Altppapier und gehören daher in den Restmüll."
+    },
+    {
+        "id": "0004",
+        "category": "bioabfall",
+        "title": "Apfelputzen und Bananenschale",
+        "img": "./src/data/img/bio.png",
+        "desc": "Lebensmittelreste und Schalen von ungespritztem Obst gehören in den Biomüll."
+    },
+    {
+        "id": "0005",
+        "category": "papiermuell",
+        "title": "Papier",
+        "img": "./src/data/img/paper.png",
+        "desc": "Papier und Kartonagen kommen zum Altpapier um für den Recyclingprozess aufbereitet zu werden."
+    }
+]
